@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "lint": "eslint eslint src/"
+    "lint": "npx eslint src/"
   },
   "keywords": [],
   "author": "",
